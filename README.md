@@ -1,4 +1,6 @@
-STAT 310 Lectures, Spring 2021
+# STAT 310: Statistics for Social Sciences, Spring 2021
+
+## Letures
 
 * Lecture 1: Introduction
 * Lecture 2: Sampling Methods
@@ -13,4 +15,12 @@ STAT 310 Lectures, Spring 2021
 * Lecture 11: Inference for Two Means
 * Lecture 12: Simple Linear Regression
 * Lecture 13: Inference for Simple Linear Regression
+
+## Labs
+
+* Lab 0: Intro to R
+* Lab 1: Intro to Data Summaries and Graphics in R
+* Lab 2: Sampling Distributions
+* Lab 3: Inference for Two Means Using R
+* Lab 4: Simple Linear Regression Using R
 
